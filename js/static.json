@@ -1,0 +1,553 @@
+{
+    "Ashura": {
+        "imageURL": "ashura.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Sapwood Plank",
+                "gifted": false
+            },
+            {
+                "item": "Heartwood Plank",
+                "gifted": false
+            },
+            {
+                "item": "Sernuk Noodle Stew",
+                "gifted": false
+            },
+            {
+                "item": "Chapaa Masala",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Auni": {
+        "imageURL": "auni.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Unopened Oyster",
+                "gifted": false
+            },
+            {
+                "item": "Duskwing Butterfly",
+                "gifted": false
+            },
+            {
+                "item": "Scintillating Centipede",
+                "gifted": false
+            },
+            {
+                "item": "Apple Pie",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Badruu": {
+        "imageURL": "badruu.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Onion Seed",
+                "gifted": false
+            },
+            {
+                "item": "Hearty Vegetable Soup",
+                "gifted": false
+            },
+            {
+                "item": "Ramen",
+                "gifted": false
+            },
+            {
+                "item": "Meaty Stir Fry",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Caleri": {
+        "imageURL": "caleri.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Paper Lantern Bug",
+                "gifted": false
+            },
+            {
+                "item": "Silk",
+                "gifted": false
+            },
+            {
+                "item": "Silk Thread",
+                "gifted": false
+            },
+            {
+                "item": "Dari Cloves",
+                "gifted": false
+            }
+        ]
+    },
+    
+    "Chayne": {
+        "imageURL": "chayne.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Onion",
+                "gifted": false
+            },
+            {
+                "item": "Hearty Vegetable Soup",
+                "gifted": false
+            },
+            {
+                "item": "Cream of Tomato Soup",
+                "gifted": false
+            },
+            {
+                "item": "Green Pearl",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Delaila": {
+        "imageURL": "delaila.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Clay",
+                "gifted": false
+            },
+            {
+                "item": "SpeedyGro Fertilizer",
+                "gifted": false
+            },
+            {
+                "item": "Apple Tree Seed",
+                "gifted": false
+            },
+            {
+                "item": "Gold Bar",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Einar": {
+        "imageURL": "einar.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Gillyfin",
+                "gifted": false
+            },
+            {
+                "item": "Garden Snail",
+                "gifted": false
+            },
+            {
+                "item": "Mottled Gobi",
+                "gifted": false
+            },
+            {
+                "item": "Cloudfish",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Elouisa": {
+        "imageURL": "elouisa.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Duskray",
+                "gifted": false
+            },
+            {
+                "item": "Inky Dragonfly",
+                "gifted": false
+            },
+            {
+                "item": "Thundering Eel",
+                "gifted": false
+            },
+            {
+                "item": "Fairy Mantis",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Eshe": {
+        "imageURL": "eshe.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Grilled Oyster",
+                "gifted": false
+            },
+            {
+                "item": "Bluefin Tuna",
+                "gifted": false
+            },
+            {
+                "item": "Silver Bar",
+                "gifted": false
+            },
+            {
+                "item": "Palian Onion Soup",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Hassian": {
+        "imageURL": "hassian.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Mountain Morel",
+                "gifted": false
+            },
+            {
+                "item": "Cotton",
+                "gifted": false
+            },
+            {
+                "item": "Iron Ore",
+                "gifted": false
+            },
+            {
+                "item": "Steak Dinner",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Hekla": {
+        "imageURL": "hekla.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Briar Daisy",
+                "gifted": false
+            },
+            {
+                "item": "Smallmouth Bass",
+                "gifted": false
+            },
+            {
+                "item": "Pearl",
+                "gifted": false
+            },
+            {
+                "item": "Celebration Cake",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Hodari": {
+        "imageURL": "hodari.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Chapaa Fur",
+                "gifted": false
+            },
+            {
+                "item": "Flow-Infused Wood",
+                "gifted": false
+            },
+            {
+                "item": "Azure Chapaa Tail" ,
+                "gifted": false
+            },
+            {
+                "item": "Firebreathing Dragonfly",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Jel": {
+        "imageURL": "jel.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Leather",
+                "gifted": false
+            },
+            {
+                "item": "Albino Eel",
+                "gifted": false
+            },
+            {
+                "item": "Azure Chapaa Tail",
+                "gifted": false
+            },
+            {
+                "item": "Willow Lamprey",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Jina": {
+        "imageURL": "jina.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Wagon Wheel",
+                "gifted": false
+            },
+            {
+                "item": "Duskwing Butterfly",
+                "gifted": false
+            },
+            {
+                "item": "Shimmerfin",
+                "gifted": false
+            },
+            {
+                "item": "Apple Pie",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Kenli": {
+        "imageURL": "kenli.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Grilled Oyster",
+                "gifted": false
+            },
+            {
+                "item": "Ramen",
+                "gifted": false
+            },
+            {
+                "item": "Sushi",
+                "gifted": false
+            },
+            {
+                "item": "Kenli's Carp",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Kenyatta": {
+        "imageURL": "kenyatta.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Sardine",
+                "gifted": false
+            },
+            {
+                "item": "Inky Dragonfly",
+                "gifted": false
+            },
+            {
+                "item": "Proudhorned Sernuk Antlers",
+                "gifted": false
+            },
+            {
+                "item": "Fairy Mantis",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Nai'O": {
+        "imageURL": "naio.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Wagon Wheel",
+                "gifted": false
+            },
+            {
+                "item": "Kilima Catfish",
+                "gifted": false
+            },
+            {
+                "item": "Bahari Pike",
+                "gifted": false
+            },
+            {
+                "item": "Steak Dinner",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Najuma": {
+        "imageURL": "najuma.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Copper Ore",
+                "gifted": false
+            },
+            {
+                "item": "Copper Bar",
+                "gifted": false
+            },
+            {
+                "item": "Cream of Tomato Soup",
+                "gifted": false
+            },
+            {
+                "item": "Silver Bar",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Reth": {
+        "imageURL": "reth.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Potato",
+                "gifted": false
+            },
+            {
+                "item": "Sernuk Noodle Stew",
+                "gifted": false
+            },
+            {
+                "item": "Blueberries",
+                "gifted": false
+            },
+            {
+                "item": "Cream of Mushroom Soup",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Sifuu": {
+        "imageURL": "sifuu.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Chapaa Meat",
+                "gifted": false
+            },
+            {
+                "item": "Oily Anchovy",
+                "gifted": false
+            },
+            {
+                "item": "Cream of Tomato Soup",
+                "gifted": false
+            },
+            {
+                "item": "Slowdown Arrow",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Tamala": {
+        "imageURL": "tamala.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Emerald Carpet Moss",
+                "gifted": false
+            },
+            {
+                "item": "Lunar Fairy Moth",
+                "gifted": false
+            },
+            {
+                "item": "Dragon's Beard Peat",
+                "gifted": false
+            },
+            {
+                "item": "Ancient Amber Beetle",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Tau": {
+        "imageURL": "tau.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Common Field Cricket",
+                "gifted": false
+            },
+            {
+                "item": "Unopened Oyster",
+                "gifted": false
+            },
+            {
+                "item": "Brighteye Butterfly",
+                "gifted": false
+            },
+            {
+                "item": "Apple",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Tish": {
+        "imageURL": "tish.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Shell",
+                "gifted": false
+            },
+            {
+                "item": "Heartwood Plank",
+                "gifted": false
+            },
+            {
+                "item": "Pearl",
+                "gifted": false
+            },
+            {
+                "item": "Green Pearl",
+                "gifted": false
+            }
+        ]
+    },
+
+    "Zeki": {
+        "imageURL": "zeki.png",
+        "giftedToday": false,
+        "wants": [
+            {
+                "item": "Unopened Oyster",
+                "gifted": false
+            },
+            {
+                "item": "Golden Salmon",
+                "gifted": false
+            },
+            {
+                "item": "Silver Ore",
+                "gifted": false
+            },
+            {
+                "item": "Gold Bar",
+                "gifted": false
+            }
+        ]
+    }
+}
